@@ -1,0 +1,791 @@
+[{
+    "Numero": 1,
+    "Localidad": "Usaquen",
+    "Habitantes": 3.546,
+    "Longitud": -74.0497525,
+    "Latitud": 4.7700298
+},
+{
+    "Numero": 9,
+    "Localidad": "Usaquen",
+    "Habitantes": 96.310,
+    "Longitud": -74.0361919,
+    "Latitud": 4.765299
+},
+{
+    "Numero": 10,
+    "Localidad": "Usaquen",
+    "Habitantes":  17.055,
+    "Longitud": -74.0466871,
+    "Latitud": 4.7513548
+
+},
+{
+    "Numero": 11,
+    "Localidad": "Usaquen",
+    "Habitantes": 72.680,
+    "Longitud": -74.0283724,
+    "Latitud": 4.7386052
+},
+{
+    "Numero": 12,
+    "Localidad": "Usaquen",
+    "Habitantes": 52.018,
+    "Longitud": -74.049473,
+    "Latitud": 4.7461901
+},
+{
+    "Numero": 13,
+    "Localidad": "Usaquen",
+    "Habitantes": 102.364,
+    "Longitud": -74.0597906,
+    "Latitud": 4.7423659
+},
+{
+    "Numero": 14,
+    "Localidad": "Usaquen",
+    "Habitantes": 41.634,
+    "Longitud": -74.0314335,
+    "Latitud": 4.7444639
+},
+{
+    "Numero": 15,
+    "Localidad": "Usaquen",
+    "Habitantes": 24.678,
+    "Longitud": -74.0424008,
+    "Latitud": 4.710208
+},
+{
+    "Numero": 16,
+    "Localidad": "Usaquen",
+    "Habitantes": 51.474,
+    "Longitud": -74.0317924,
+    "Latitud": 4.6986448
+},
+{
+    "Numero": 88,
+    "Localidad": "Chapinero",
+    "Habitantes": 30.763,
+    "Longitud": -74.0461188,
+    "Latitud": 4.6664499
+},
+{
+    "Numero": 89,
+    "Localidad": "Chapinero",
+    "Habitantes": 16.201,
+    "Longitud": -74.0394035,
+    "Latitud": 4.6440408
+},
+{
+    "Numero": 90,
+    "Localidad": "Chapinero",
+    "Habitantes": 37.191,
+    "Longitud": -74.0621592,
+    "Latitud": 4.6377682
+},
+{
+    "Numero": 97,
+    "Localidad": "Chapinero",
+    "Habitantes": 26.291,
+    "Longitud": -74.059263,
+    "Latitud": 4.6733413
+},
+{
+    "Numero": 99,
+    "Localidad": "Chapinero",
+    "Habitantes": 20.282,
+    "Longitud": -74.0569668,
+    "Latitud": 4.6453568
+},
+{
+    "Numero": 91,
+    "Localidad": "Santa Fe",
+    "Habitantes": 5.879,
+    "Longitud": -74.0696126,
+    "Latitud": 4.6231556
+},
+{
+    "Numero": 92,
+    "Localidad": "Santa Fe",
+    "Habitantes": 14.350,
+    "Longitud": -74.0687681,
+    "Latitud": 4.6113076
+},
+{
+    "Numero": 93,
+    "Localidad": "Santa Fe",
+    "Habitantes": 13.773,
+    "Longitud": -74.0739734,
+    "Latitud": 4.6059459
+},
+{
+    "Numero": 95,
+    "Localidad": "Santa Fe",
+    "Habitantes": 23.241,
+    "Longitud": -74.0809897,
+    "Latitud": 4.5900582
+},
+{
+    "Numero": 96,
+    "Localidad": "Santa Fe",
+    "Habitantes": 46.301,
+    "Longitud": -74.0747926,
+    "Latitud": 4.588634
+},
+{
+    "Numero": 32,
+    "Localidad": "San Cristóbal",
+    "Habitantes": 95.245,
+    "Longitud": -74.086185,
+    "Latitud": 4.571405
+
+},
+{
+    "Numero": 33,
+    "Localidad": "San Cristóbal",
+    "Habitantes": 46.766,
+    "Longitud": -74.0959303,
+    "Latitud": 4.5737906
+
+},
+{
+    "Numero": 34,
+    "Localidad": "San Cristóbal",
+    "Habitantes": 92.353,
+    "Longitud": -74.1000779,
+    "Latitud": 4.5691781
+},
+{
+    "Numero": 50,
+    "Localidad": "San Cristóbal",
+    "Habitantes": 102.299,
+    "Longitud": -74.0932988,
+    "Latitud": 4.5458901
+
+},
+{
+    "Numero": 51,
+    "Localidad": "San Cristóbal",
+    "Habitantes": 73.429,
+    "Longitud": -74.0623985,
+    "Latitud": 4.7282698
+
+},
+{
+    "Numero": 52,
+    "Localidad": "Usme",
+    "Habitantes": 18.507,
+    "Longitud": -74.095324,
+    "Latitud": 4.5184004
+},
+{
+    "Numero": 56,
+    "Localidad": "Usme",
+    "Habitantes": 36.193,
+    "Longitud": -74.1897948,
+    "Latitud": 4.6251604
+},
+{
+    "Numero": 57,
+    "Localidad": "Usme",
+    "Habitantes": 138.142,
+    "Longitud": -74.1132573,
+    "Latitud": 4.5085091
+},
+{
+    "Numero": 58,
+    "Localidad": "Usme",
+    "Habitantes": 86.795,
+    "Longitud": -74.1092573,
+    "Latitud": 4.4997696
+},
+{
+    "Numero": 59,
+    "Localidad": "Usme",
+    "Habitantes": 54.095,
+    "Longitud": -74.1054673,
+    "Latitud": 4.499853
+},
+{
+    "Numero": 60,
+    "Localidad": "Usme",
+    "Habitantes": 0,
+    "Longitud": -74.0984898,
+    "Latitud": 4.5376197
+},
+{
+    "Numero": 61,
+    "Localidad": "Usme",
+    "Habitantes": 86.795,
+    "Longitud": -74.1037603,
+    "Latitud": 4.503883
+},
+{
+    "Numero": 42,
+    "Localidad": "Tunjuelito",
+    "Habitantes": 144.420,
+    "Longitud": -74.1406883,
+    "Latitud": 4.592375
+},
+{
+    "Numero": 62,
+    "Localidad": "Tunjuelito",
+    "Habitantes": 144.420,
+    "Longitud": -74.1747831,
+    "Latitud": 4.5586161
+},
+{
+    "Numero": 49,
+    "Localidad": "Bosa",
+    "Habitantes": 38.125,
+    "Longitud": -74.1771896,
+    "Latitud": 4.5957562
+},
+{
+    "Numero": 84,
+    "Localidad": "Bosa",
+    "Habitantes": 178.960,
+    "Longitud": -74.2095743,
+    "Latitud": 4.5813518
+},
+{
+    "Numero": 85,
+    "Localidad": "Bosa",
+    "Habitantes": 221.236,
+    "Longitud": -74.186916,
+    "Latitud": 4.6099207
+},
+{
+    "Numero": 86,
+    "Localidad": "Bosa",
+    "Habitantes": 73.629,
+    "Longitud": -74.2356364,
+    "Latitud": 4.6481957
+},
+{
+    "Numero": 87,
+    "Localidad": "Bosa",
+    "Habitantes": 221.236,
+    "Longitud": -74.1418573,
+    "Latitud": 4.652095
+},
+{
+    "Numero": 46,
+    "Localidad": "Kennedy",
+    "Habitantes": 125.411,
+    "Longitud": -74.1431083,
+    "Latitud": 4.6403
+},
+{
+    "Numero": 44,
+    "Localidad": "Kennedy",
+    "Habitantes": 84.584,
+    "Longitud": -74.1388923,
+    "Latitud": 4.631439
+},
+{
+    "Numero": 45,
+    "Localidad": "Kennedy",
+    "Habitantes": 96.337,
+    "Longitud": -74.1409073,
+    "Latitud": 4.614652
+},
+{
+    "Numero": 47,
+    "Localidad": "Kennedy",
+    "Habitantes": 96.282,
+    "Longitud": -74.1551663,
+    "Latitud": 4.62209
+},
+{
+    "Numero": 48,
+    "Localidad": "Kennedy",
+    "Habitantes": 147.298,
+    "Longitud": -74.1569053,
+    "Latitud": 4.612841
+},
+{
+    "Numero": 78,
+    "Localidad": "Kennedy",
+    "Habitantes": 29.348,
+    "Longitud": -74.1407223,
+    "Latitud": 4.651907
+},
+{
+    "Numero": 79,
+    "Localidad": "Kennedy",
+    "Habitantes": 68.328,
+    "Longitud": -74.1696133,
+    "Latitud": 4.643724
+},
+{
+    "Numero": 80,
+    "Localidad": "Kennedy",
+    "Habitantes": 69.277,
+    "Longitud": -74.1668563,
+    "Latitud": 4.6311757
+},
+{
+    "Numero": 81,
+    "Localidad": "Kennedy",
+    "Habitantes": 70.904,
+    "Longitud": -74.1842641,
+    "Latitud": 4.6170993
+},
+{
+    "Numero": 82,
+    "Localidad": "Kennedy",
+    "Habitantes": 174.145,
+    "Longitud": -74.1656473,
+    "Latitud": 4.638878
+},
+{
+    "Numero": 83,
+    "Localidad": "Kennedy",
+    "Habitantes": 14.786,
+    "Longitud": -74.1780653,
+    "Latitud": 4.631826
+},
+{
+    "Numero": 113,
+    "Localidad": "Kennedy",
+    "Habitantes": 20.993,
+    "Longitud": -74.1334881,
+    "Latitud": 4.6395142
+},
+{
+    "Numero": 75,
+    "Localidad": "Fontibón",
+    "Habitantes": 137.489,
+    "Longitud": -74.1747884,
+    "Latitud": 4.6775432
+},
+{
+    "Numero": 76,
+    "Localidad": "Fontibón",
+    "Habitantes": 32.134,
+    "Longitud": -74.1585507,
+    "Latitud": 4.68511
+},
+{
+    "Numero": 77,
+    "Localidad": "Fontibón",
+    "Habitantes": 39.664,
+    "Longitud": -74.1578378,
+    "Latitud": 4.6740828
+},
+{
+    "Numero": 110,
+    "Localidad": "Fontibón",
+    "Habitantes": 41.106,
+    "Longitud": -74.1151481,
+    "Latitud": 4.6532058
+},
+{
+    "Numero": 112,
+    "Localidad": "Fontibón",
+    "Habitantes": 22.861,
+    "Longitud": -74.1191512,
+    "Latitud": 4.6421394
+},
+{
+    "Numero": 114,
+    "Localidad": "Fontibón",
+    "Habitantes": 39.410,
+    "Longitud": -74.1197937,
+    "Latitud": 4.6687623
+},
+{
+    "Numero": 115,
+    "Localidad": "Fontibón",
+    "Habitantes": 16.657,
+    "Longitud": -74.1213658,
+    "Latitud": 4.6615871
+},
+{
+    "Numero": 117,
+    "Localidad": "Fontibón",
+    "Habitantes": 835,
+    "Longitud": -74.1427126,
+    "Latitud": 4.6972009
+},
+{
+    "Numero": 26,
+    "Localidad": "Engativá",
+    "Habitantes": 110.859,
+    "Longitud": -74.086708,
+    "Latitud": 4.6856528
+},
+{
+    "Numero": 29,
+    "Localidad": "Engativá",
+    "Habitantes": 147.709,
+    "Longitud": -74.0922666,
+    "Latitud": 4.6981266
+},
+{
+    "Numero": 30,
+    "Localidad": "Engativá",
+    "Habitantes": 121.920,
+    "Longitud": -74.1030035,
+    "Latitud": 4.6845829
+},
+{
+    "Numero": 31,
+    "Localidad": "Engativá",
+    "Habitantes": 65.210,
+    "Longitud": -74.1100421,
+    "Latitud": 4.6759236
+},
+{
+    "Numero": 72,
+    "Localidad": "Engativá",
+    "Habitantes": 86.279,
+    "Longitud": -74.1174769,
+    "Latitud": 4.7158515
+},
+{
+    "Numero": 73,
+    "Localidad": "Engativá",
+    "Habitantes": 149.186,
+    "Longitud": -74.120784,
+    "Latitud": 4.7138106
+},
+{
+    "Numero": 74,
+    "Localidad": "Engativá",
+    "Habitantes": 130.828,
+    "Longitud": -74.1211155,
+    "Latitud": 4.7094928
+},
+{
+    "Numero": 105,
+    "Localidad": "Engativá",
+    "Habitantes": 2.464,
+    "Longitud": -74.1024477,
+    "Latitud": 4.668019
+},
+{
+    "Numero": 116,
+    "Localidad": "Engativá",
+    "Habitantes": 13.641,
+    "Longitud": -74.1204124,
+    "Latitud": 4.6973734
+},
+{
+    "Numero": 2,
+    "Localidad": "Suba",
+    "Habitantes": 920,
+    "Longitud": -74.1885273,
+    "Latitud": 4.6976315
+},
+{
+    "Numero": 3,
+    "Localidad": "Suba",
+    "Habitantes": 167,
+    "Longitud": -74.068775,
+    "Latitud": 4.7459137
+},
+{
+    "Numero": 17,
+    "Localidad": "Suba",
+    "Habitantes": 47.774,
+    "Longitud": -74.0662435,
+    "Latitud": 4.7674166
+},
+{
+    "Numero": 18,
+    "Localidad": "Suba",
+    "Habitantes": 57.730,
+    "Longitud": -74.0593616,
+    "Latitud": 4.7516412
+},
+{
+    "Numero": 19,
+    "Localidad": "Suba",
+    "Habitantes": 89.013,
+    "Longitud": -74.0602691,
+    "Latitud": 4.7579624
+},
+{
+    "Numero": 20,
+    "Localidad": "Suba",
+    "Habitantes": 36.637,
+    "Longitud": -74.0625846,
+    "Latitud": 4.6985656
+},
+{
+    "Numero": 23,
+    "Localidad": "Suba",
+    "Habitantes": 36.521,
+    "Longitud": -74.0722223,
+    "Latitud": 4.7543863
+},
+{
+    "Numero": 24,
+    "Localidad": "Suba",
+    "Habitantes": 65.073,
+    "Longitud": -74.0765341,
+    "Latitud": 4.7071466
+},
+{
+    "Numero": 25,
+    "Localidad": "Suba",
+    "Habitantes": 25.324,
+    "Longitud": -74.0758199,
+    "Latitud": 4.6911971
+},
+{
+    "Numero": 27,
+    "Localidad": "Suba",
+    "Habitantes": 134.709,
+    "Longitud": -74.1532048,
+    "Latitud": 4.761604
+},
+{ 
+    "Numero": 28,
+    "Localidad": "Suba",
+    "Habitantes": 302.006,
+    "Longitud": -74.0981995,
+    "Latitud": 4.7270609
+},
+{
+    "Numero": 71,
+    "Localidad": "Suba",
+    "Habitantes": 222.576,
+    "Longitud": -74.1041931,
+    "Latitud": 4.7382998
+},
+{
+    "Numero": 21,
+    "Localidad": "Barrios Unidos",
+    "Habitantes": 46.625,
+    "Longitud": -74.0713811,
+    "Latitud": 4.688277
+},
+{
+    "Numero": 22,
+    "Localidad": "Barrios Unidos",
+    "Habitantes": 98.583,
+    "Longitud": -74.0742718,
+    "Latitud": 4.6708328
+},
+{
+    "Numero": 98,
+    "Localidad": "Barrios Unidos",
+    "Habitantes": 82.086,
+    "Longitud": -74.0709939,
+    "Latitud": 4.6626983
+},
+{
+    "Numero": 103,
+    "Localidad": "Barrios Unidos",
+    "Habitantes": 4.141,
+    "Longitud": -74.0898845,
+    "Latitud": 4.6642681
+},
+{
+    "Numero": 100,
+    "Localidad": "TEUSAQUILLO",
+    "Habitantes": 34.344,
+    "Longitud": -74.0765882,
+    "Latitud": 4.643571
+},
+{
+    "Numero": 101,
+    "Localidad": "TEUSAQUILLO",
+    "Habitantes": 27.316,
+    "Longitud": -74.0895439,
+    "Latitud": 4.6432952
+},
+{
+    "Numero": 104,
+    "Localidad": "TEUSAQUILLO",
+    "Habitantes": 3.404,
+    "Longitud": -74.0932765,
+    "Latitud": 4.661528
+},
+{
+    "Numero": 106,
+    "Localidad": "TEUSAQUILLO",
+    "Habitantes": 33.784,
+    "Longitud": -74.0929868,
+    "Latitud": 4.6472698
+},
+{
+    "Numero": 107,
+    "Localidad": "TEUSAQUILLO",
+    "Habitantes": 27.099,
+    "Longitud": -74.0958518,
+    "Latitud": 4.6348887
+},
+{
+    "Numero": 109,
+    "Localidad": "TEUSAQUILLO",
+    "Habitantes": 17.944,
+    "Longitud": -74.1047465,
+    "Latitud": 4.6440358
+},
+{
+    "Numero": 37,
+    "Localidad": "Mártires",
+    "Habitantes": 45.086,
+    "Longitud": -74.1047488,
+    "Latitud": 4.5990475
+},
+{
+    "Numero": 102,
+    "Localidad": "Mártires",
+    "Habitantes": 52.197,
+    "Longitud": -74.0888458,
+    "Latitud": 4.6080772
+},
+{
+    "Numero": 35,
+    "Localidad": "Antonio Nariño",
+    "Habitantes": 52.197,
+    "Longitud": -74.117593,
+    "Latitud": 4.5833414
+},
+{
+    "Numero": 38,
+    "Localidad": "Antonio Nariño",
+    "Habitantes": 77.022,
+    "Longitud": -74.1038491,
+    "Latitud": 4.5879334
+},
+{
+    "Numero": 40,
+    "Localidad": " Puente Aranda",
+    "Habitantes": 105.662,
+    "Longitud": -74.1161512,
+    "Latitud": 4.6032885
+},
+{
+    "Numero": 41,
+    "Localidad": " Puente Aranda",
+    "Habitantes": 57.052,
+    "Longitud": -74.1334642,
+    "Latitud": 4.5969488
+},
+{
+    "Numero": 43,
+    "Localidad": " Puente Aranda",
+    "Habitantes": 76.749,
+    "Longitud": -74.1161194,
+    "Latitud": 4.6236458
+},
+{
+    "Numero": 108,
+    "Localidad": " Puente Aranda",
+    "Habitantes": 4.247,
+    "Longitud": -74.1024591,
+    "Latitud": 4.6160453
+},
+{
+    "Numero": 111,
+    "Localidad": " Puente Aranda",
+    "Habitantes": 14.658,
+    "Longitud": -74.1280065,
+    "Latitud": 4.6195141
+},
+{
+    "Numero": 94,
+    "Localidad": " La Candelaria",
+    "Habitantes": 24.095,
+    "Longitud": -74.0767336,
+    "Latitud": 4.5955253
+},
+{
+    "Numero": 36,
+    "Localidad": " Rafael Uribe",
+    "Habitantes": 49.050,
+    "Longitud": -74.1057673,
+    "Latitud": 4.5789217
+},
+{
+    "Numero": 39,
+    "Localidad": " Rafael Uribe",
+    "Habitantes": 87.121,
+    "Longitud": -74.112568,
+    "Latitud": 4.5815262
+},
+
+{
+    "Numero": 53,
+    "Localidad": " Rafael Uribe",
+    "Habitantes": 65.877,
+    "Longitud": -74.1192039,
+    "Latitud": 4.5815956
+},
+{
+    "Numero": 54,
+    "Localidad": " Rafael Uribe",
+    "Habitantes": 96.465,
+    "Longitud": -74.0506256,
+    "Latitud": 4.7025009
+},
+{
+    "Numero": 55,
+    "Localidad": " Rafael Uribe",
+    "Habitantes": 79.191,
+    "Longitud": -74.1122318,
+    "Latitud": 4.5472349
+},
+{
+    "Numero": 63,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 1.466,
+    "Longitud": -74.1400252,
+    "Latitud": 4.5375877
+},
+{
+    "Numero": 64,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 5.179,
+    "Longitud": -74.1218355,
+    "Latitud": 4.5033604
+},
+{
+    "Numero": 65,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 60.752,
+    "Longitud": -74.1572461,
+    "Latitud": 4.5703279
+},
+{
+    "Numero": 66,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 76.213,
+    "Longitud": -74.1502761,
+    "Latitud": 4.5649923
+},
+{
+    "Numero": 67,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 162.669,
+    "Longitud": -74.144744,
+    "Latitud": 4.5513959
+},
+{
+    "Numero": 68,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 47.624,
+    "Longitud": -74.1486054,
+    "Latitud": 4.5360423
+},
+{
+    "Numero": 69,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 163.692,
+    "Longitud": -74.1716315,
+    "Latitud": 4.5841437
+},
+{
+    "Numero": 70,
+    "Localidad": " Ciudad Bolívar",
+    "Habitantes": 98.693,
+    "Longitud": -74.1600065,
+    "Latitud": 4.5757536
+}
+]  

@@ -1,0 +1,1244 @@
+{
+   "Transporte":"Transmilenio",
+   "Troncales":[      
+      {
+         "NombreTroncal":"Caracas Sur (Usme)",
+         "Identificador" : 1,
+         "CantidadEstaciones":13,
+         "Estaciones":[
+            {
+               "Nombre":"Hospital",
+               "Latitud":4.5958061,
+               "Longitud":-74.091484,
+               "Tipo":"Normal",
+               "Alimentadores": false,
+               "UPZ":102
+            },
+            {
+               "Nombre":"Hortúa",
+               "Latitud":4.5907048,
+               "Longitud":-74.0925371,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":35
+            },
+            {
+               "Nombre":"Nariño",
+               "Latitud":4.5871591,
+               "Longitud":-74.0937719,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":35
+            },
+            {
+               "Nombre":"Fucha",
+               "Latitud":4.5827992,
+               "Longitud":-74.1006743,
+               "Tipo":"Normal",
+               "Alimentadores": false,
+               "UPZ":35
+            },
+            {
+               "Nombre":"Restrepo",
+               "Latitud":4.5812823,
+               "Longitud":-74.1041364,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":38
+            },
+            {
+               "Nombre":"Olaya",
+               "Latitud": 4.57885,
+               "Longitud":-74.1096433,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":36
+            },
+            {
+               "Nombre":"Quiroga",
+               "Latitud":4.57675,
+               "Longitud":-74.1166833,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":39
+            },
+            {
+               "Nombre":"Calle 40 Sur",
+               "Latitud": 4.5760855,
+               "Longitud":-74.1220857,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":39
+            },
+            {
+               "Nombre":"Santa Lucía",
+               "Latitud": 4.5705475,
+               "Longitud":-74.1270733,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":62
+            },
+            {
+               "Nombre":"Socorro",
+               "Latitud": 4.5676616,
+               "Longitud":-74.1278865,
+               "Tipo":"normal",
+               "Alimentadores":false,
+               "UPZ":62
+            },
+            {
+               "Nombre":"Consuelo",
+               "Latitud": 4.5588096,
+               "Longitud":-74.130847,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":62
+            },
+            {
+               "Nombre":"Molinos",
+               "Latitud": 4.5568334,
+               "Longitud": -74.1239217,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":62
+            },
+            {
+               "Nombre":"Portal Usme",
+               "Latitud":4.5312575,
+               "Longitud":-74.1213923,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":61
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Caracas",
+         "CantidadEstaciones":14,
+         "Identificador" : 2,
+         "Estaciones":[
+            {
+               "Nombre":"Calle 76",
+               "Latitud":4.6640306,
+               "Longitud":-74.0632751,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Calle 72",
+               "Latitud":4.6592618,
+               "Longitud":-74.0641148,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Flores",
+               "Latitud":4.65488,
+               "Longitud":-74.065214,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Calle 63",
+               "Latitud":4.6492122,
+               "Longitud":-74.0669026,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Calle 57",
+               "Latitud":4.6429218,
+               "Longitud":-74.0680732,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Marly",
+               "Latitud":4.63698,
+               "Longitud":-74.069064,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Calle 45",
+               "Latitud":4.6326601,
+               "Longitud":-74.0698539,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101
+            },
+            {
+               "Nombre":"Avenida 39",
+               "Latitud":4.62718,
+               "Longitud":-74.070834,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101
+            },
+            {
+               "Nombre":"Calle 34",
+               "Latitud":4.6213908,
+               "Longitud":-74.0719939,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101
+            },
+            {
+               "Nombre":"Calle 26",
+               "Latitud":4.6169289,
+               "Longitud":-74.0743527,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101
+            },
+            {
+               "Nombre":"Calle 22",
+               "Latitud":4.6107707,
+               "Longitud":-74.0756292,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":93
+            },
+            {
+               "Nombre":"Calle 19",
+               "Latitud":4.6085001,
+               "Longitud":-74.076942,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":93
+            },
+            {
+               "Nombre":"Avenida Jiménez",
+               "Latitud":4.6020027,
+               "Longitud":-74.0811097,
+               "Tipo":"Intercambiador",
+               "Alimentadores":false,
+               "UPZ":102
+            },
+            {
+               "Nombre":"Tercer Milenio",
+               "Latitud":4.59782,
+               "Longitud":-74.0855911,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":102
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Autopista Norte",
+         "CantidadEstaciones":17,
+         "Identificador" : 3,
+         "Estaciones":[
+            {
+               "Nombre":"Terminal",
+               "Latitud":4.770036,
+               "Longitud":-74.0458725,
+               "Tipo":"Portal",
+               "Alimentadores":false,
+               "UPZ":1
+            },
+            {
+               "Nombre":"Calle 187",
+               "Latitud":4.7635717,
+               "Longitud":-74.0464971,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":9
+            },
+            {
+               "Nombre":"Portal Norte",
+               "Latitud":4.75423,
+               "Longitud":-74.048354,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":10
+            },
+            {
+               "Nombre":"Toberin",
+               "Latitud":4.7461848,
+               "Longitud":-74.049473,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":12
+            },
+            {
+               "Nombre":"Cardio Infantil",
+               "Latitud":4.7427042,
+               "Longitud":-74.0500565,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":12
+            },
+            {
+               "Nombre":"Mazurén",
+               "Latitud":4.7344974,
+               "Longitud":-74.0514366,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":12
+            },
+            {
+               "Nombre":"Calle 146",
+               "Latitud":4.7308315,
+               "Longitud":-74.0520612,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":13
+            },
+            {
+               "Nombre":"Calle 142",
+               "Latitud":4.7269441,
+               "Longitud":-74.052502,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":13
+            },
+            {
+               "Nombre":"Alcala",
+               "Latitud":4.7202852,
+               "Longitud":-74.054479,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":13
+            },
+            {
+               "Nombre":"Prado",
+               "Latitud":4.713174,
+               "Longitud":-74.0548759,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":15
+            },
+            {
+               "Nombre":"Calle 127",
+               "Latitud":4.7042884,
+               "Longitud":-74.0565409,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":15
+            },
+            {
+               "Nombre":"Pepe Sierra",
+               "Latitud":4.6987949,
+               "Longitud":-74.0574443,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":16
+            },
+            {
+               "Nombre":"Calle 106",
+               "Latitud":4.694599,
+               "Longitud":-74.0569842,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":16
+            },
+            {
+               "Nombre":"Calle 100",
+               "Latitud":4.6848007,
+               "Longitud":-74.0597635,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":97
+            },
+            {
+               "Nombre":"Virrey",
+               "Latitud":4.6758553,
+               "Longitud":-74.0613357,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":97
+            },
+            {
+               "Nombre":"Calle 85",
+               "Latitud":4.672192,
+               "Longitud":-74.06143,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            },
+            {
+               "Nombre":"Heroes",
+               "Latitud":4.66831,
+               "Longitud":-74.062404,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":99
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Suba",
+         "CantidadEstaciones":14,
+         "Identificador" : 4,
+         "Estaciones":[
+            {
+               "Nombre":"Portal Suba",
+               "Latitud":4.7466302,
+               "Longitud":-74.0970895,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":19
+            },
+            {
+               "Nombre":"La Campiña",
+               "Latitud":4.7424593,
+               "Longitud":-74.0926394,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":19
+            },
+            {
+               "Nombre":"Suba - TV 91",
+               "Latitud": 4.738524,
+               "Longitud": -74.0885329,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":19
+            },
+            {
+               "Nombre":"21 Angeles",
+               "Latitud":4.7352551,
+               "Longitud": -74.0827816,
+               "Tipo":"Normal",
+               "Alimentadores": false,
+               "UPZ":23
+            },
+            {
+               "Nombre":"Gratamira",
+               "Latitud":4.7269523,
+               "Longitud":-74.0759285,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":23
+            },
+            {
+               "Nombre":"Suba AV Boyaca",
+               "Latitud": 4.7224939,
+               "Longitud": -74.0762465,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":24
+            },
+            {
+               "Nombre":"Niza - Calle 127",
+               "Latitud": 4.7224938,
+               "Longitud":-74.0827965,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":24
+            },
+            {
+               "Nombre":"Humedal Cordoba",
+               "Latitud":4.7061701,
+               "Longitud":-74.0735562,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":24
+            },
+            {
+               "Nombre":"Av Suba CL 116",
+               "Latitud":4.69949,
+               "Longitud":-74.0721633,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":24
+            },
+            {
+               "Nombre":"Puentelargo",
+               "Latitud":4.69346,
+               "Longitud":-74.0694532,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":24
+            },
+            {
+               "Nombre":"Suba CL 100",
+               "Latitud":44.6929058,
+               "Longitud":-74.0691493,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":25
+            },
+            {
+               "Nombre":"Suba CL 95",
+               "Latitud":4.6843567,
+               "Longitud":-74.0653042,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":21
+            },
+            {
+               "Nombre":"Rionegro",
+               "Latitud":4.6799991,
+               "Longitud":-74.0661449,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":21
+            },
+            {
+               "Nombre":"San Martin",
+               "Latitud":4.6763572,
+               "Longitud":-74.0693655,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":21
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Calle 80",
+         "CantidadEstaciones":13,
+         "Identificador" : 5,
+         "Estaciones":[
+            {
+               "Nombre":"Portal 80",
+               "Latitud":4.7096237,
+               "Longitud":-74.1133294,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":71
+            },
+            {
+               "Nombre":"Quirigua",
+               "Latitud":4.7050164,
+               "Longitud":-74.1115958,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":73
+            },
+            {
+               "Nombre":"Carrera 90",
+               "Latitud": 4.70456,
+               "Longitud":-74.1058992,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":73
+            },
+            {
+               "Nombre":"Avenida Cali",
+               "Latitud":4.7023053,
+               "Longitud":-74.1023646,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":29
+            },
+            {
+               "Nombre":"Granja - KRR 77",
+               "Latitud":4.6989944,
+               "Longitud":-74.0975424,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":29
+            },
+            {
+               "Nombre":"Minuto de Dios",
+               "Latitud":4.6965804,
+               "Longitud":-74.0936292,
+               "Tipo":"Normal",
+               "Alimentadores": false,
+               "UPZ":29
+            },
+            {
+               "Nombre":"Boyaca",
+               "Latitud":4.6940615,
+               "Longitud":-74.0893963,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":26
+            },
+            {
+               "Nombre":"Ferias",
+               "Latitud":4.6908242,
+               "Longitud":-74.0867087,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":26
+            },
+            {
+               "Nombre":"Avenida 68",
+               "Latitud":4.6858333,
+               "Longitud":-74.0827389,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":26
+            },
+            {
+               "Nombre":"Carrera 53",
+               "Latitud":4.6821308,
+               "Longitud":-74.080243,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":22
+            },
+            {
+               "Nombre":"Carrera 47",
+               "Latitud":4.6779804,
+               "Longitud":-74.0757102,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":22
+            },
+            {
+               "Nombre":"Escuela militar",
+               "Latitud":4.6752,
+               "Longitud":-74.0714733,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":22
+            },
+            {
+               "Nombre":"Polo",
+               "Latitud":4.67052,
+               "Longitud":-74.0668133,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":98
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"NQS Central",
+         "CantidadEstaciones":13,
+         "Identificador" : 6,
+         "Estaciones":[
+            {
+               "Nombre":"Castellana",
+               "Latitud":44.6762159,
+               "Longitud":-74.06382,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":21
+            },
+            {
+               "Nombre":"NQS Calle 75",
+               "Latitud":4.6700544,
+               "Longitud":-74.0719778,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":98
+            },
+            {
+               "Nombre":"Av Chile",
+               "Latitud":4.666089,
+               "Longitud":-74.0770503,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":98
+            },
+            {
+               "Nombre":"Simon Bolivar",
+               "Latitud":4.6498782,
+               "Longitud":-74.0784676,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":98
+            },
+            {
+               "Nombre":"Movistar Arena",
+               "Latitud":4.650254,
+               "Longitud":-74.078346,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":100
+            },
+            {
+               "Nombre":"Campin -UAN",
+               "Latitud":4.6455534,
+               "Longitud":-74.0790307,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":100
+            },
+            {
+               "Nombre":"U. Nacional",
+               "Latitud":4.63737,
+               "Longitud":-74.0814532,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":106
+            },
+            {
+               "Nombre":"Av. El Dorado",
+               "Latitud":4.6273209,
+               "Longitud":-74.0818499,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":106
+            },
+            {
+               "Nombre":"CAD",
+               "Latitud":44.6230413,
+               "Longitud":-74.0866667,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":111
+            },
+            {
+               "Nombre":"Paloquemao",
+               "Latitud":4.6172547,
+               "Longitud":-74.0901822,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":111
+            },
+            {
+               "Nombre":"Ricaurte",
+               "Latitud":4.611251,
+               "Longitud":-74.0950463,
+               "Tipo":"Intercambiador",
+               "Alimentadores":false,
+               "UPZ":102
+            },
+            {
+               "Nombre":"Guatoque - Veraguas",
+               "Latitud":4.6037865,
+               "Longitud":-74.0952701,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":102
+            },
+            {
+               "Nombre":"Tygua - San jose",
+               "Latitud":4.6001138,
+               "Longitud":-74.0892607,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":37
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Avenida Las Américas",
+         "CantidadEstaciones":18,
+         "Identificador" : 7,
+         "Estaciones":[
+            {
+               "Nombre":"Av. Jimenez",
+               "Latitud":4.6030585,
+               "Longitud":-74.0799727,
+               "Tipo":"Intercambiador",
+               "Alimentadores":false,
+               "UPZ":102
+
+            },
+            {
+               "Nombre":"De la Sabana",
+               "Latitud":4.6047191,
+               "Longitud":-74.0823195,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":102
+
+            },
+            {
+               "Nombre":"San Facon - KRR 22",
+               "Latitud":4.60958,
+               "Longitud":-74.0887233,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":102
+            },
+            {
+               "Nombre":"Ricaurte",
+               "Latitud":4.61297,
+               "Longitud":-74.0926333,
+               "Tipo":"Intercambiador",
+               "Alimentadores":false,
+               "UPZ":102
+            },
+            {
+               "Nombre":"CDS - Carrera 32",
+               "Latitud":4.6157251,
+               "Longitud":-74.0956864,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":108
+            },
+            {
+               "Nombre":"Zona Industrial",
+               "Latitud":4.6203409,
+               "Longitud":-74.100901,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":108
+            },
+            {
+               "Nombre":"Carrera 43",
+               "Latitud":4.6226075,
+               "Longitud":-74.1015418,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":111
+            },
+            {
+               "Nombre":"Puente Aranda",
+               "Latitud":4.6252637,
+               "Longitud":-74.1047511,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":111
+            },
+            {
+               "Nombre":"Distrito Grafiti",
+               "Latitud":4.6278208,
+               "Longitud":-74.113684,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":43
+            },
+            {
+               "Nombre":"Pradera",
+               "Latitud":4.6285097,
+               "Longitud":-74.1207843,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":43
+            },
+            {
+               "Nombre":"Marsella",
+               "Latitud":4.629963,
+               "Longitud":-74.1317964,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":44
+            },
+            {
+               "Nombre":"Mundo Aventura",
+               "Latitud":4.6300566,
+               "Longitud":-74.1342916,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":44
+            },
+            {
+               "Nombre":"Mandalay",
+               "Latitud":4.6308272,
+               "Longitud":-74.1423066,
+               "Tipo":"Normal",
+               "Alimentadores": false,
+               "UPZ":44
+            },
+            {
+               "Nombre":"Banderas",
+               "Latitud":4.6315197,
+               "Longitud":-74.146692,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":47
+            },
+            {
+               "Nombre":"Transversal 86",
+               "Latitud":4.6341556,
+               "Longitud":-74.1537705,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":80
+            },
+            {
+               "Nombre":"Biblioteca el Tintal",
+               "Latitud":4.6396387,
+               "Longitud":-74.1585725,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":82
+            },
+            {
+               "Nombre":"Patio Bonito",
+               "Latitud":4.6326146,
+               "Longitud":-74.165646,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":82
+            },
+            {
+               "Nombre":"Portal Americas",
+               "Latitud":4.6292976,
+               "Longitud":-74.1747425,
+               "Tipo":"Portal",
+               "Alimentadores":false,
+               "UPZ":83
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"NQS Sur",
+         "CantidadEstaciones":17,
+         "Identificador" : 8,
+         "Estaciones":[
+            {
+               "Nombre":"Comuneros",
+               "Latitud":4.6041925,
+               "Longitud":-74.1003101,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":37
+            },
+            {
+               "Nombre":"Santa Isabel",
+               "Latitud":4.6019425,
+               "Longitud":-74.1042879,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":37
+            },
+            {
+               "Nombre":"Sena",
+               "Latitud":4.5973446,
+               "Longitud":-74.1129564,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":40
+            },
+            {
+               "Nombre":"NQS CLL 30 Sur",
+               "Latitud":4.5947911,
+               "Longitud":-74.1202534,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":40
+            },
+            {
+               "Nombre":"NQS CLL 38A Sur",
+               "Latitud":4.5934968,
+               "Longitud":-74.1247293,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":41
+            },
+            {
+               "Nombre":"General Santander",
+               "Latitud":4.5934439,
+               "Longitud":-74.1297898,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":41
+            },
+            {
+               "Nombre":"Alqueria",
+               "Latitud":4.59426,
+               "Longitud":-74.1366133,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":41
+            },
+            {
+               "Nombre":"Venecia",
+               "Latitud":4.5953982,
+               "Longitud":-74.143215,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":42
+            },
+            {
+               "Nombre":"Sevillana",
+               "Latitud":4.5950482,
+               "Longitud":-74.147909,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":42
+            },
+            {
+               "Nombre":"Madelena",
+               "Latitud":4.5962436,
+               "Longitud":-74.1569639,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":69
+            },
+            {
+               "Nombre":"Perdomo",
+               "Latitud":4.5957939,
+               "Longitud":-74.1653146,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":69
+            },
+            {
+               "Nombre":"Portal Sur",
+               "Latitud":4.5974558,
+               "Longitud":-74.1703519,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":49
+            },
+            {
+               "Nombre":"Bosa",
+               "Latitud":4.5970208,
+               "Longitud":-74.1807544,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":85
+            },
+            {
+               "Nombre":"Despensa",
+               "Latitud":4.5945348,
+               "Longitud":-74.1880389,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":0
+            },
+            {
+               "Nombre":"Leon XVIII",
+               "Latitud":4.5921158,
+               "Longitud":-74.1934667,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":0
+            },
+            {
+               "Nombre":"Terreros",
+               "Latitud":4.5891568,
+               "Longitud":-74.1991368,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":0
+            },
+            {
+               "Nombre":"San Mateo",
+               "Latitud":4.5846182,
+               "Longitud":-74.2083074,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":0
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Eje Ambiental",
+         "CantidadEstaciones":3,
+         "Identificador" : 8,
+         "Estaciones":[
+            {
+               "Nombre":"Museo del Oro",
+               "Latitud":4.6009294,
+               "Longitud":-74.0731978,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":94
+            },
+            {
+               "Nombre":"Las Aguas",
+               "Latitud":4.6020631,
+               "Longitud":-74.0693072,
+               "Tipo":"Intercambiador",
+               "Alimentadores":false,
+               "UPZ":94
+            },
+            {
+               "Nombre":"Universidades",
+               "Latitud":4.6050777,
+               "Longitud":-74.0671628,
+               "Tipo":"Intercambiador",
+               "Alimentadores":false,
+               "UPZ":93
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Avenida Eldorado",
+         "CantidadEstaciones":13,
+         "Identificador" : 9,
+         "Estaciones":[
+            {
+               "Nombre":"Centro memoria",
+               "Latitud":4.6206204,
+               "Longitud":-74.078666,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101
+            },
+            {
+               "Nombre":"Concejo de Bogota",
+               "Latitud":4.6262183,
+               "Longitud":-74.0806193,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101
+            },
+            {
+               "Nombre":"Ciudad Universitaria",
+               "Latitud":4.6298779,
+               "Longitud":-74.0829943,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":101     
+            },
+            {
+               "Nombre":"Recinto Ferial",
+               "Latitud":4.6342269,
+               "Longitud":-74.0897655,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":107
+            },
+            {
+               "Nombre":"Quinta Paredes ",
+               "Latitud":4.6369204,
+               "Longitud":-74.0949912,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":107
+            },
+            {
+               "Nombre":"Gobernacion",
+               "Latitud":4.6428389,
+               "Longitud":-74.0970674,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":109
+            },
+            {
+               "Nombre":"CAN",
+               "Latitud":4.6467793,
+               "Longitud":-74.0994696,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":109
+            },
+            {
+               "Nombre":"Salitre - El Greco",
+               "Latitud":4.6509008,
+               "Longitud":-74.1019229,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":109
+            },
+            {
+               "Nombre":"El Tiempo - Maloka",
+               "Latitud":4.6571614,
+               "Longitud":-74.1059898,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":110
+            },
+            {
+               "Nombre":"Av. Rojas",
+               "Latitud":4.6619781,
+               "Longitud":-74.1110176,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":110
+            },
+            {
+               "Nombre":"Normandia",
+               "Latitud":4.669405,
+               "Longitud":-74.1157303,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":114
+            },
+            {
+               "Nombre":"Modelia",
+               "Latitud":4.674846,
+               "Longitud":-74.1177125,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":114
+            },
+            {
+               "Nombre":"Portal El dorado",
+               "Latitud":4.6809849,
+               "Longitud":-74.1235838,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":75
+            }
+         ]
+      },
+      {
+         "NombreTroncal":"Carrera Décima",
+         "CantidadEstaciones":10,
+         "Identificador" : 10,
+         "Estaciones":[
+            {
+               "Nombre":"San Diego",
+               "Latitud":4.6106978,
+               "Longitud":-74.0726415,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":91
+            },
+            {
+               "Nombre":"Las Nieves",
+               "Latitud": 4.6057844,
+               "Longitud":-74.07456,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":93
+            },
+            {
+               "Nombre":"San Victorino",
+               "Latitud":4.600767,
+               "Longitud":-74.0780221,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":95
+            },
+            {
+               "Nombre":"Bicentenario",
+               "Latitud":4.5941418,
+               "Longitud":-74.0839104,
+               "Tipo":"Normal",
+               "Alimentadores":true,
+               "UPZ":95
+            },
+            {
+               "Nombre":"San Bernardo",
+               "Latitud":4.5946837,
+               "Longitud":-74.0866,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":95
+            },
+            {
+               "Nombre":"Policarpa",
+               "Latitud": 4.5864425,
+               "Longitud":-74.0868486,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":35
+            },
+            {
+               "Nombre":"Ciudad Jardin",
+               "Latitud":4.5815422,
+               "Longitud":-74.0905039,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":35
+            },
+            {
+               "Nombre":"Av. 1 de Mayo",
+               "Latitud":4.5771074,
+               "Longitud":-74.0938264,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":33
+            },
+            {
+               "Nombre":"Country Sur",
+               "Latitud":4.5709452,
+               "Longitud":-74.0991053,
+               "Tipo":"Normal",
+               "Alimentadores":false,
+               "UPZ":34
+            },
+            {
+               "Nombre":"Portal 20 de Julio",
+               "Latitud":4.5654193,
+               "Longitud":-74.100178,
+               "Tipo":"Portal",
+               "Alimentadores":true,
+               "UPZ":34
+            }
+         ]
+      }
+   ]
+}
